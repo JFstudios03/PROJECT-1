@@ -8,7 +8,7 @@ body{
     background-color: #4d4d4d;
     background: linear-gradient(#727272, #272313);
     margin: 10px;
-    animation: transitionin 0.2s ease-in-out 1;
+    animation: transitionin 0.5s ease-in-out 1;
 }
 
 @keyframes transitionin {
@@ -243,7 +243,7 @@ input{
         background: linear-gradient(#727272, #272313);
         background-size: cover;
         margin: auto;
-        animation: transitionin 0.2s ease-in-out 1;
+        animation: transitionin 0.5s ease-in-out 1;
 }
 
 @keyframes transitionin {
@@ -466,7 +466,7 @@ input{
         background-color: #4d4d4d;
         background: linear-gradient(#727272, #272313);
         margin: 10px;
-        animation: transitionin 0.2s ease-in-out 1;
+        animation: transitionin 0.5s ease-in-out 1;
     }
     
     @keyframes transitionin {
@@ -703,7 +703,7 @@ input{
         background: linear-gradient(#727272, #272313);
         background-size: cover;
         margin: auto;
-        animation: transitionin 0.2s ease-in-out 1;
+        animation: transitionin 0.5s ease-in-out 1;
 }
 
 @keyframes transitionin {
@@ -930,7 +930,7 @@ input{
         background-color: #4d4d4d;
         background: linear-gradient(#727272, #272313);
         margin: 10px;
-        animation: transitionin 0.2s ease-in-out 1;
+        animation: transitionin 0.5s ease-in-out 1;
     }
     
     @keyframes transitionin {
